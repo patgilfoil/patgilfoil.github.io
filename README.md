@@ -1,5 +1,11 @@
 # Projects
 
+## Torn
+
+This was a game that a few other students and I collaborated on as a part of our Major Production Assessment at AIE.
+
+[Itch.io Page Link](https://team-light.itch.io/torn)
+
 ## Aim Training Minigame
 
 This project was a submission for the Cross-Platform Development Assessment during the first year for Game Programming at AIE.
