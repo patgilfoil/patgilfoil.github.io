@@ -6,7 +6,7 @@ This project was a submission for the Cross-Platform Development Assessment duri
 
 [Repository](https://github.com/patgilfoil/AimTrainingMinigame)
 
-[WebGL Player](https://patgilfoil.github.io/unityproj/Game/)
+[WebGL Player](https://patgilfoil.github.io/AimTrainingMinigame/Game/)
 
 ## Player Database
 
